@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Chicago Teams</string>
+    <string name="txtBtnSchedule">Schedule</string>
+    <string name="txtBtnRoster">Roster</string>
+    <string name="txtBtnScores">Scores</string>
+    <string name="txtBtnStandings">Standings</string>
+    <string name="txtTitleCubs">CUBS</string>
+    <string name="txtTitleSox">WHITE SOX</string>
+    <string name="txtTitleBears">BEARS</string>
+    <string name="txtTitleFire">FIRE</string>
+    <string name="txtTitleSky">SKY</string>
+    <string name="txtTitleHawks">BLACKHAWKS</string>
+    <string name="txtTitleWolves">WOLVES</string>
+    <string name="txtTitleBulls">BULLS</string>
+    <string name="txtTitleRedstars">RED STARS</string>
+</resources>
